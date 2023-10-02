@@ -1,4 +1,4 @@
 name = 'Roger'
 
-puts name.casecmp?('RoGeR')
-puts name.casecmp?('DAVE')
+p name.casecmp?('RoGeR')
+p name.casecmp?('DAVE')
